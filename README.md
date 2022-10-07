@@ -1,6 +1,6 @@
 ## Olá mundo! Meu nome é Ariel Aio
 - 📚 Cursando _Informática_
-- 📫 Contate-me: om)
+- 📫 Contate-me: [ayal](mailto:damegeex@gmail.com)
 
 <div align="center" style="display: flex; flex-direction: row;">
   <a href="https://github.com/jpmoncao">
