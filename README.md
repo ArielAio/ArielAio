@@ -1,4 +1,4 @@
-## Opa! Meu nome é Ariel Aio
+## Olá! Meu nome é Ariel Aio
 - 📚 Cursando _Informática_
 - 📫 Contate-me: [Ayal](mailto:damegeex@gmail.com)
 
