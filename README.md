@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielAio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=jpmoncao&color=blue" alt="Profile views" /> </p>
+ </br><p align="center"> <img src="https://komarev.com/ghpvc/?username=jpmoncao&color=blue" alt="Profile views" /> </p>
 
   
 <div align="center" style="display: inline_block"><br>
