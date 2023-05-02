@@ -1,5 +1,6 @@
 ## Olá! Meu nome é Ariel Aio
 - 📚 Cursando _Informática_
+- 🔎 Encontre-me no <a href="https://www.linkedin.com/in/jpmoncao/">Linkedin</a>
 - 📫 Contate-me: [Ayal](mailto:arielaio@hotmail.com)
 
 <div align="center" style="display: flex; flex-direction: row;">
@@ -14,4 +15,5 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="postgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
