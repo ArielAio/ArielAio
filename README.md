@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Ariel Aio
 - 📚 Cursando _Informática_
-- 🔎 Encontre-me no <a href="https://www.linkedin.com/in/jpmoncao/">Linkedin</a>
+- 🔎 Encontre-me no <a href="https://www.linkedin.com/in/ariel-aio/">Linkedin</a>
 - 📫 Contate-me: [Ayal](mailto:arielaio@hotmail.com)
 
 <div align="center" style="display: flex; flex-direction: row;">
