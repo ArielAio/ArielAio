@@ -23,16 +23,6 @@
 
 <br>
 
-## Olá! Meu nome é Ariel Aio
-- 📚 Cursando _Bacharelado em Sistemas de Informação_
-- 🔎 Encontre-me no <a href="https://www.linkedin.com/in/ariel-aio/">Linkedin</a>
-- 📫 Contate-me: [Ayal](mailto:arielaio@hotmail.com)
-
-<div align="center" style="display: flex; flex-direction: row;">
-  <a href="https://github.com/ArielAio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArielAio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielAio&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
  </br><p align="center"> <img src="https://komarev.com/ghpvc/?username=arielaio&color=blue" alt="Profile views" /> </p>
 
@@ -45,3 +35,13 @@
   <img align="center" alt="postgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
+
+
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ArielAio}/count.svg" /></p> 
+<br></div>
+  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
