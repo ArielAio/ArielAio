@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/ayelaio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
   <div align="left">  
-<a href="https://www.linkedin.com/in/ariel-aio-b39928255/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/ariel-aio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
 - 📫 Contate-me: [ArielAio](mailto:arielaio@hotmail.com)
