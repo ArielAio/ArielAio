@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Ariel Aio
-- 📚 Cursando _Informática_
+- 📚 Cursando _Bacharelado em Sistemas de Informação_
 - 🔎 Encontre-me no <a href="https://www.linkedin.com/in/ariel-aio/">Linkedin</a>
 - 📫 Contate-me: [Ayal](mailto:arielaio@hotmail.com)
 
