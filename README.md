@@ -1,4 +1,4 @@
-<img width=500% src="https://capsule-render.vercel.app/api?type=waving&color=613dc1&height=120&section=header"/>
+<img width=500% src="https://capsule-render.vercel.app/api?type=waving&color=9483ff&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=613dc1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ariel+Aio!;I'm+18+years+old!;I'm+from+Brasil,+SP!;I'm+learning+programming+languages!+;Be+Welcome!+:D)](https://git.io/typing-svg)
 
