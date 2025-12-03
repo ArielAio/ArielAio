@@ -6,9 +6,23 @@
   </a>
 </h1>
 
+<!-- GITHUB STATS -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArielAio&show_icons=true&count_private=true&hide_border=true&title_color=9483ff&icon_color=9483ff&text_color=c9d1d9&bg_color=0d1117" alt="Ariel Aio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielAio&layout=compact&hide_border=true&title_color=9483ff&text_color=9483ff&bg_color=0d1117" />
+  <!-- Stats card -->
+  <img
+    width="49%"
+    height="195"
+    src="https://github-readme-stats.vercel.app/api?username=ArielAio&show_icons=true&hide_border=true&title_color=9483ff&icon_color=9483ff&text_color=c9d1d9&bg_color=0d1117"
+    alt="Ariel Aio GitHub stats"
+  />
+
+  <!-- Most used languages -->
+  <img
+    width="41%"
+    height="195"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielAio&layout=compact&hide_border=true&title_color=9483ff&text_color=9483ff&bg_color=0d1117"
+    alt="Top Languages"
+  />
 </div>
 
 <h2 align="center">Contact</h2>
@@ -37,7 +51,10 @@
 <h2 align="center">Visitors</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{ArielAio}/count.svg" alt="Visitor Count" />
+  <img
+    src="https://komarev.com/ghpvc/?username=ArielAio&color=9483ff&style=for-the-badge"
+    alt="Profile views"
+  />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9483ff&height=120&section=footer"/>
