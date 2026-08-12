@@ -12,13 +12,13 @@
 
   <img 
     width="49%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArielAio&show_icons=true&hide_border=true&title_color=9483ff&icon_color=9483ff&text_color=c9d1d9&bg_color=0d1117" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArielAio&theme=github_dark"
     alt="GitHub Stats"
   />
 
   <img 
     width="41%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArielAio&layout=compact&hide_border=true&title_color=9483ff&text_color=9483ff&bg_color=0d1117"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArielAio&theme=github_dark"
     alt="Most Used Languages"
   />
 
