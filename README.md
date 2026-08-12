@@ -3,11 +3,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=9483ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ariel+Aio!;I'm+20+years+old!;I'm+from+Brazil,+SP!;I'm+learning+programming!;Be+Welcome!+:D" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=9483ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Ariel+Aio!;I'm+21+years+old!;I'm+from+Brazil,+SP!;I'm+learning+programming!;Be+Welcome!+:D" />
   </a>
 </h1>
 
-<!-- age-check: 2026-07 -->
+<!-- age-check: 2026-08 -->
 
 <!-- GITHUB STATS -->
 <div align="center">
