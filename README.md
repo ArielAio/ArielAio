@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-<!-- age-check: 2026-08 -->
+<!-- age-check: 2026-09 -->
 
 <!-- GITHUB STATS -->
 <div align="center">
